@@ -25,12 +25,6 @@
 ### 📊 GitHub Stats
 ![Bariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bariqfirjatullah1803&show_icons=true&theme=radical)
 
-### 🏆 GitHub Trophies
-![Bariq's Trophies](https://github-profile-trophy.vercel.app/?username=bariqfirjatullah1803&theme=radical&column=3)
-
-### 🔥 GitHub Streak
-![Bariq's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bariqfirjatullah1803&theme=radical)
-
 ### 📈 Top Languages
 ![Bariq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bariqfirjatullah1803&theme=radical&layout=compact)
 
