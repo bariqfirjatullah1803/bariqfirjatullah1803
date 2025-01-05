@@ -23,10 +23,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Bariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bariqfirjatullah1803&show_icons=true&theme=radical)
+![Bariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bariqfirjatullah1803&show_icons=true&theme=blue)
 
 ### 📈 Top Languages
-![Bariq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bariqfirjatullah1803&theme=radical&layout=compact)
+![Bariq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bariqfirjatullah1803&theme=blue&layout=compact)
 
 ---
 
